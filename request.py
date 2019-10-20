@@ -14,7 +14,7 @@ import base64
 
 '''
 
-# Fill thess informations with the data provided in https://developer.twitter.com/en/apps
+# Fill these informations with the data provided in https://developer.twitter.com/en/apps
 consumer_key = '<API KEY>'
 consumer_secret = '<API SECRET KEY>'
 callback = '<CALLBACK URL>'
